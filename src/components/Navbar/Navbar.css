@@ -11,7 +11,7 @@
 
 .topnav a {
     display: inline-block;
-    color: #f2f2f2;
+    color: #c1c1c1;
     text-align: center;
     padding: 20px 15px;
     text-decoration: none;
@@ -19,7 +19,7 @@
 }
 
 .topnav a:hover {
-    background-color: #ddd;
+    background-color: #fff;
     color: black;
     border-radius: 25px;
     border: #ddd;
